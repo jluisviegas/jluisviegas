@@ -1,6 +1,7 @@
  ### Hi, I'm Luis!
-   <img width="460" height="300" src="https://github.com/jluisviegas/jluisviegas/blob/main/luisviegas-img.png" />
-
+ <p align="center">
+   <img width="880" height="185" src="https://github.com/jluisviegas/jluisviegas/blob/main/luisviegas-img.png" />
+ </p>
 
 <!--
 **jluisviegas/jluisviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
