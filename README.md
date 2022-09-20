@@ -1,7 +1,5 @@
  ### Hi, I'm Luis!
- <div align="center">
-  ![luis viegas banner](https://github.com/jluisviegas/jluisviegas/blob/main/luisviegas-img.png)
-</div>
+   <img width="460" height="300" src="https://github.com/jluisviegas/jluisviegas/blob/main/luisviegas-img.png" />
 
 
 <!--
