@@ -1,5 +1,5 @@
-<div align="center">
-  ### Hi, I'm Luis!
+ ### Hi, I'm Luis!
+ <div align="center">
   ![luis viegas banner](https://github.com/jluisviegas/jluisviegas/blob/main/luisviegas-img.png)
 </div>
 
